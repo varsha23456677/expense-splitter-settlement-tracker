@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #FBF9F5;
+  --color-ink: #1B2340;
+  --color-coral: #FF6B4A;
+  --color-mint: #4ADE9C;
+
+  --font-display: "Space Grotesk", sans-serif;
+  --font-body: "Inter", sans-serif;
+  --font-mono: "IBM Plex Mono", monospace;
+
+  --radius-card: 16px;
+}
